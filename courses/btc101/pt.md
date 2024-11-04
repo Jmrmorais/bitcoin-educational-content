@@ -1,11 +1,11 @@
 ---
 name: O percurso do Bitcoin
-goal: Descobrir o Bitcoin e seus fundamentos, incluindo sua proposta de valor monetário, os mineradores, as transações e as carteiras.
-objectives:
+Objetivo: Descobrir o Bitcoin e seus fundamentos, incluindo sua proposta de valor monetário, os mineradores, as transações e as carteiras.
+Objetivos:
   - Ter uma compreensão geral da tecnologia do Bitcoin
   - Compreender como comprar e proteger seus bitcoins
   - Ter uma compreensão geral da tecnologia Blockchain
-  - Estar familiarizado com o conceito da Lightning Network
+  - Familializar-se com o conceito da Lightning Network
   - Reconhecer o impacto geopolítico e social do Bitcoin
 ---
 
@@ -45,7 +45,7 @@ Neste curso, discutiremos os aspectos monetários do Bitcoin, incluindo como com
 
 - Capítulo 1 - O que é moeda?
 - Capítulo 2 - Moeda fiduciária
-- Capítulo 3 - Hiperinflações
+- Capítulo 3 - Hiperinflação
 - Capítulo 4 - Política monetária do Bitcoin
 
 **Seção 2 - Carteiras de Bitcoin**
@@ -78,7 +78,7 @@ Antes de abordar a definição e o funcionamento do dinheiro em uma sociedade (c
 
 ![image](assets/pt/chapter0/3.webp)
 
-A importância aqui é entender de forma geral essa nova tecnologia. Esperamos que este treinamento seja do seu agrado e forneça a base necessária para entender e talvez continuar avançando nesse novo paradigma monetário global.
+A importância aqui é principalmente entender de forma geral essa nova tecnologia. Esperamos que este treinamento seja do seu agrado e forneça a base necessária para entender e talvez continuar avançando nesse novo paradigma monetário global.
 
 ## A pré-história do Bitcoin
 
@@ -104,10 +104,10 @@ O movimento cypherpunk, com suas raízes profundas no ativismo digital e na crip
   Escrito por Eric Hughes em 1993, o "Manifesto Cypherpunk" afirma que a privacidade é um direito fundamental. Hughes argumentava que a capacidade de se comunicar livre e confidencialmente era essencial para uma sociedade livre. O manifesto declara: "Não podemos esperar que instituições, empresas ou outras grandes entidades impessoais nos concedam privacidade... Devemos defendê-la por nós mesmos."
 
 - O "Manifesto do Crypto-Anarquista":
-  Escrito por Timothy C. May em 1992, este manifesto expõe como o uso da criptografia poderia levar a uma era de anarquia criptográfica, onde os governos seriam impotentes para intervir nos assuntos privados dos cidadãos. May previa um futuro onde as trocas de informações, dinheiro e mensagens poderiam ser feitas sem a intervenção de terceiros, de forma anônima.
+  Escrito por Timothy C. May em 1992, este manifesto explica como o uso da criptografia poderia levar a uma era de anarquia criptográfica, onde os governos seriam impotentes para intervir nos assuntos privados dos cidadãos. May previa um futuro onde informação, dinheiro e mensagens poderiam ser trocadas sem a intervenção de terceiros, de forma anônima.
 
 - A "Declaração de Independência do Ciberespaço":
-  Embora este texto não seja exclusivamente cypherpunk, ele reflete os sentimentos de muitos atores do movimento. Escrito em 1996 por John Perry Barlow, é uma resposta à crescente regulamentação da Internet pelos governos. A declaração afirma que o ciberespaço é um lugar distinto da esfera física e não deve estar sujeito às mesmas leis. Ela declara: "Não temos governantes e, portanto, não podemos ser governados."
+  Embora este texto não seja exclusivamente cypherpunk, ele reflete os sentimentos de muitos atores do movimento. Escrito em 1996 por John Perry Barlow, é uma resposta à crescente regulamentação da Internet pelos governos. A declaração afirma que o ciberespaço é um lugar distinto da esfera física e não deve estar sujeito às mesmas leis. Ela declara: "Não temos governantes eleitos e, portanto, não podemos ser governados."
 
 ### Os Predecessores do Bitcoin
 
@@ -171,16 +171,16 @@ O ouro como moeda é a escolha de 4.000 anos de darwinismo monetário, que se ba
 
 ### As características da moeda
 
-O ouro atende idealmente aos critérios de uma moeda eficiente: sua raridade natural o torna um objeto de valor, enquanto suas propriedades químicas permitem que ele não se desgaste com o tempo. No entanto, essa forma de moeda não é facilmente divisível nem transportável por longas distâncias. Em um mundo globalizado e digital, o ouro não pode acompanhar e precisa de uma entidade central para torná-lo divisível e facilmente negociável (moeda cunhada).
+O ouro atende idealmente aos critérios de uma moeda eficiente: sua raridade natural o torna um objeto de valor, enquanto suas propriedades químicas permitem que ele não se desgaste com o tempo. No entanto, essa forma de moeda não é facilmente divisível nem transportável por longas distâncias. Em um mundo globalizado e digital, o ouro não pode acompanhar às demandas e precisa de uma entidade central para torná-lo divisível e facilmente negociável (moeda cunhada).
 
-Estas deficiências fizeram do ouro uma reserva de valor, mas não uma moeda comum, em detrimento das moedas fiduciárias estatais, fáceis de utilizar mas constantemente desvalorizadas pelas entidades que as controlam (rei, banco central, imperador, ditador).
+Estas deficiências fizeram do ouro uma reserva de valor, mas não uma moeda comum, em detrimento das moedas fiduciárias estatais (fiat), fáceis de utilizar mas constantemente desvalorizadas pelas entidades que as controlam (rei, banco central, imperador, ditador).
 
 Há muitos critérios para uma moeda eficaz. Uma boa moeda deve ser :
 
 ![image](assets/pt/chapter1/6.webp)
 
-- **fungíveis**, ou seja, permutáveis sem perda de valor
-- **Divisível**, para facilitar transacções de diferentes volumes
+- **Fungível**, ou seja, permutáveis sem perda de valor
+- **Divisível**, para facilitar transações de diferentes volumes
 - **Líquida**, ou seja, facilmente convertível em bens ou serviços.
 
 Para satisfazer estes critérios, a moeda evolui passo a passo:
@@ -191,7 +191,7 @@ Para satisfazer estes critérios, a moeda evolui passo a passo:
 
 Atualmente, as moedas continuam a evoluir, adaptando as suas formas para se adequarem a diferentes utilizações. Por exemplo, embora o ouro seja uma excelente reserva de valor, já não é adequado para a economia globalizada de hoje. Da mesma forma, as moedas fiduciárias, como o dólar e o euro, são altamente líquidas e facilmente transportáveis porque são agora predominantemente digitais, mas o seu valor está constantemente a ser corroído pela inflação monetária.
 
-A Bitcoin, pelo contrário, oferece novas possibilidades. Devido às suas propriedades, como a sua oferta estritamente limitada, oferece uma excelente reserva de valor. Além disso, sendo a moeda neutra da Internet, representa um bom meio de troca que não conhece fronteiras. No entanto, apesar da [constante adoção], ainda não é muito aceite nos estabelecimentos comerciais (https://btcmap.org/map).
+Por outro lado, Bitcoin oferece novas possibilidades. Devido às suas propriedades, como a sua oferta estritamente limitada, oferece uma excelente reserva de valor. Além disso, sendo a moeda neutra da Internet, representa um bom meio de troca que não conhece fronteiras. No entanto, apesar da [constante adoção], ainda não é amplamente aceito nos estabelecimentos comerciais (https://btcmap.org/map).
 
 ## Moedas fiduciárias
 
@@ -219,7 +219,7 @@ Gradualmente, esses governantes desvalorizam discretamente a nova moeda, reduzin
 
 Em um momento crítico, o anúncio é feito: a moeda não é mais lastreada pelo ouro. O público, agora acostumado com a moeda fiduciária e muitas vezes mal informado sobre questões financeiras, aceita essa realidade. O Estado então tem campo livre para manipular a oferta monetária, imprimindo enormes quantidades de dinheiro a um custo quase nulo.
 
-Cette estratégia, quando bem executada, pode durar décadas. No entanto, uma desvalorização muito rápida ou uma perda de confiança pode levar a uma hiperinflação (ver próximo capítulo). A história mostra que o dólar perdeu 98% de seu valor em 100 anos, o euro 30% em 20 anos e a libra esterlina 99% desde a sua criação.
+Esta estratégia, quando bem executada, pode durar décadas. No entanto, uma desvalorização muito rápida ou uma perda de confiança pode levar a uma hiperinflação (ver próximo capítulo). A história mostra que o dólar perdeu 98% de seu valor em 100 anos, o euro 30% em 20 anos e a libra esterlina 99% desde a sua criação.
 
 No final, a moeda pode não ter mais nenhuma ligação com o ouro, lembrando as moedas romanas no final do Império, ou até mesmo ser reduzida a um simples valor numérico, desconectado da realidade tangível.
 
